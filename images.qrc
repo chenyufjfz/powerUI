@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/File">
+        <file>Play.jpg</file>
+        <file>Pause.jpg</file>
+        <file>zoomin.jpg</file>
+        <file>zoomout.jpg</file>
+    </qresource>
+</RCC>
